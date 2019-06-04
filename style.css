@@ -1,0 +1,53 @@
+#game-board {
+	border-spacing: 0;
+}
+#game-board td{
+
+	border: 1px solid;
+	width: 50px;
+	height: 50px;
+}
+/*Класс для лпустошения цвета ячейки*/
+.empty {
+	background: #fff !important;
+}
+
+/*red*/
+.color0 {
+	background: #f00;
+}
+
+/*pink*/
+.color1 {
+	background: #ff00d4;
+}
+
+/*darkblue*/
+.color2 {
+	background: #1500ff;
+}
+
+/*orange*/
+.color3 {
+	background: #ff8c00;
+}
+
+/*green*/
+.color4 {
+	background: #1dff00;
+}
+
+/*blue*/
+.color5 {
+	background: #00f6ff;
+}
+
+/*yellow*/
+.color6 {
+	background: #f6ff00;
+}
+
+/*grey*/
+.color7 {
+	background: #adadad;
+}
